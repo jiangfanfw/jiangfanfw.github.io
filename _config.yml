@@ -1,0 +1,8 @@
+title: Jiangfanfw.GitHub.io
+description: 江帆的个人主页 --来看看吧
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
